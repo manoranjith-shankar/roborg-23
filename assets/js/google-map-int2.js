@@ -202,7 +202,7 @@ function initMap() {
   {
     position: latlng,
     map: map,
-    title:"China"
+    title:"India"
   });
 
 }
