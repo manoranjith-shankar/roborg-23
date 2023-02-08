@@ -1,7 +1,7 @@
 
 function initMap() {
-  var latlng = new google.maps.LatLng(51.508742,-0.120850);
-  var latlng2 = new google.maps.LatLng(51.508742,-0.120850);
+  var latlng = new google.maps.LatLng(10.938044,76.956086);
+  var latlng2 = new google.maps.LatLng(10.938044,76.956086);
   var myOptions = {
     zoom: 12,
     center: latlng,
@@ -202,7 +202,7 @@ function initMap() {
   {
     position: latlng,
     map: map,
-    title:"China"
+    title:"India"
   });
 
 }
